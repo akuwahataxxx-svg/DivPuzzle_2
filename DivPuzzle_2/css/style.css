@@ -19,10 +19,7 @@
   width: 400px;
   height: 100px;
 }
-.main{
-  float: left;
-}
-.main_2{
+.box{
   float: left;
 }
 .pink{
@@ -39,12 +36,10 @@
   background-color: #ff9e6b;
   width: 100px;
   height: 150px;
-  float: left;
+  float: right;
 }
 .tya{
   background-color: #8c2727;
   width: 250px;
   height: 100px;
-  float: inline-end;
 }
-
