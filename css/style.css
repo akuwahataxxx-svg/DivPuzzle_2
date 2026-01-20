@@ -1,0 +1,45 @@
+.clearfix::after{
+   content: "";
+   display: block;
+   clear: both;
+}
+.red{
+  background-color: #ff0000;
+  width: 400px;
+  height: 100px;
+}
+.green{
+  background-color: #00ff1e;
+  width: 150px;
+  height: 250px;
+  float: left;
+}
+.kiiro{
+  background-color: #ffe600;
+  width: 400px;
+  height: 100px;
+}
+.box{
+  float: left;
+}
+.pink{
+  background-color: #cc00db;
+  width: 150px;
+  height: 50px;
+}
+.sui{
+  background-color: #0093b7;
+  width: 150px;
+  height: 100px;
+}
+.dai{
+  background-color: #ff9e6b;
+  width: 100px;
+  height: 150px;
+  float: left;
+}
+.tya{
+  background-color: #8c2727;
+  width: 250px;
+  height: 100px;
+}
